@@ -6,6 +6,6 @@ This code is easy to use in the following way:
   3. run the code using java -jar html-word-count.jar command
   4. give your user name and password
   5. as output you will have two directories a.log and b.content
-  6. log will have the access log
+  6. log will have the access log (succes and failure/error)
   7. content will have the json formated files which contain the desired output (vedio subtitles). 
   
